@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://myters.netlify.app/"))()
+loadstring(game:HttpGet("https://clixs.netlify.app/"))()
